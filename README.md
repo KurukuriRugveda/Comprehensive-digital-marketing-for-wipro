@@ -1,5 +1,3 @@
-# Comprehensive-digital-marketing-for-wipro
-Digital marketing for wipro company 
 # Comprehensive Digital Marketing for Wipro
 
 ## 📌 Project Overview
